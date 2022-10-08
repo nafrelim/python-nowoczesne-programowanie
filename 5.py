@@ -24,8 +24,8 @@ wiersz = '''Wróbelek jest mała %s,
 wróbelek istotka %s,
 on brzydką stonogę %s,
 lecz nikt nie popiera %s.'''
-słowa = ('ptaszyna', 'niewielka', 'pochłania', 'wróbelka')
-print(wiersz % słowa)
+slowa = ('ptaszyna', 'niewielka', 'pochłania', 'wróbelka')
+print(wiersz % slowa)
 
 reklamacja = '''
 REKLAMACJA
